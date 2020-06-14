@@ -2,7 +2,8 @@
 This is a Neural Network based prediction analysis on the covid-19 dataset as to when different countries will hit their peak
 Let's visualize how the cases around the world have increased. We can see that China seems to have flattened the curved, Italy had hit its peak but US,India still has more day before peaking.
 Data Analysis 
-![alt text](https://github.com/[Ayushshah2023]/[Covid19_peak_predictor]/blob/[master]/India.png?raw=true)
+![India](https://user-images.githubusercontent.com/52671035/84581766-7e477000-ae02-11ea-9a5a-520cd49d402a.PNG)
+
 India
 This is based on data until June 13, 2020.
 India should peak when it will have around 630,000 cases as seen by this model.
